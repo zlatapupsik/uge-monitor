@@ -270,7 +270,7 @@ launchctl kickstart -k gui/$(id -u)/com.zlata.uge.telegram
 
 1. Открыться окно Terminal.
 2. Запуститься проверка UGE.
-3. Выбраться сертификат Artem.
+3. Выбраться сертификат YOUR AUTOFIRMA (нужный сертификат).
 4. Нажаться `Aceptar`.
 5. Прийти Telegram.
 
