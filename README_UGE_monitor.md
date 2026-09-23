@@ -11,7 +11,7 @@
 2. Нажимает `Ver Notificaciones`.
 3. Нажимает `Autenticarse`.
 4. Открывает AutoFirma.
-5. Выбирает сертификат `KULBASOV ARTEM`.
+5. Выбирает сертификат `YOUR AUTOFIRMA`.
 6. Нажимает `Aceptar`.
 7. Проверяет страницу уведомлений.
 8. Отправляет результат в Telegram.
@@ -217,7 +217,7 @@ npm run check
 2. Открываю Ver Notificaciones...
 3. Нажимаю Autenticarse...
 Жду окно выбора сертификата...
-✅ Выбран KULBASOV ARTEM и нажат OK.
+✅ Выбран YOUR AUTOFIRMA и нажат OK.
 Жду Aceptar...
 4. Проверяю результат...
 ✅ UGE: уведомлений нет.
@@ -410,7 +410,7 @@ UGE
    ↓
 AutoFirma
    ↓
-KULBASOV ARTEM
+NAME OF SIGN HOLDER
    ↓
 Aceptar
    ↓
